@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Malik22222/malik-fsub5",
-  "logo": "https://telegra.ph/file/58dd7794129a362be7b0f.jpg",
+  "repository": "https://github.com/putraicipiyey/fsub-5",
+  "logo": "https://telegra.ph/file/b21aba4e6a111b4e7e0ce.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": " Panggilsaya_m"
+      "value": "b64decode"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "1883126074"
+      "value": "5548552886"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
@@ -71,12 +71,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "VVIPVUS",
+      "value": "dyecstar",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "Virtualunion",
+      "value": "demusplace",
       "required": false
    } 
   },
